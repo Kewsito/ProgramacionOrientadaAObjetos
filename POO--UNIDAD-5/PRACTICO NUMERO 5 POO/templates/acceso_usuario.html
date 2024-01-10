@@ -1,0 +1,15 @@
+{% extends "base_template.html" %}
+{% block content %}
+
+<h1> ACCESO USUARIO
+</h1>
+<hr>
+    <form action="{{request.path}}" method="post" class="contenedor-au">
+        <label >Correo</label><br>
+        <input type="email" name="email" placeholder="correo@example.com"><br>
+        <label >Contraseña</label><br>
+        <input type="password" name="password" placeholder="Contraseña"> <br>
+        <br>
+        <input type="submit" value="INGRESAR">
+    </form>
+{% endblock %}

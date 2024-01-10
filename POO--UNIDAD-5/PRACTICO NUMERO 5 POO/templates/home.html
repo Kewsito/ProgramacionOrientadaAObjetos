@@ -1,0 +1,11 @@
+{% extends "base_template.html" %}
+{% block content %}
+<h1>INICIO</h1>
+<hr>
+<ul>
+    <li>
+        <a href="{{url_for('registro_usuario')}}">REGISTRO USUARIO</a>
+        <a href="{{url_for('acceso_usuario')}}">INGRESO USUARIO</a>
+    </li>
+</ul>
+{% endblock %}
