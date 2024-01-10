@@ -1,0 +1,24 @@
+[
+    {
+        "__class__": "Paciente",
+        "__atributos__": {
+            "apellido": "Cuevas",
+            "nombre": "Roberto",
+            "email": "Cuevas@gmail.com",
+            "telefono": "(264)7777777",
+            "altura": "1.7",
+            "peso": "90"
+        }
+    },
+    {
+        "__class__": "Paciente",
+        "__atributos__": {
+            "apellido": "Perez",
+            "nombre": "Carlos",
+            "email": "carlos@gmail.com",
+            "telefono": "(264)1234567",
+            "altura": "2",
+            "peso": "90"
+        }
+    }
+]

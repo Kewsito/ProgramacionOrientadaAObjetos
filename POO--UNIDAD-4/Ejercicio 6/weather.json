@@ -1,0 +1,74 @@
+[
+    {
+        "__class__": "Provincias",
+        "__atributos__": {
+            "nombre": "Buenos Aires",
+            "capital": "La plata",
+            "cantHabitantes": 12877203,
+            "cantDep": 135,
+            "temp": 10.4,
+            "sensacionT": 9.35,
+            "humedad": 71
+        }
+    },
+    {
+        "__class__": "Provincias",
+        "__atributos__": {
+            "nombre": "Catamarca",
+            "capital": "San Fernando del Valle de Catamarca",
+            "cantHabitantes": 332390,
+            "cantDep": 16,
+            "temp": 11.54,
+            "sensacionT": 10.26,
+            "humedad": 58
+        }
+    },
+    {
+        "__class__": "Provincias",
+        "__atributos__": {
+            "nombre": "Chaco",
+            "capital": "Resistencia",
+            "cantHabitantes": 984446,
+            "cantDep": 25,
+            "temp": 33.28,
+            "sensacionT": 34.23,
+            "humedad": 40
+        }
+    },
+    {
+        "__class__": "Provincias",
+        "__atributos__": {
+            "nombre": "Corrientes",
+            "capital": "Corrientes",
+            "cantHabitantes": 930991,
+            "cantDep": 25,
+            "temp": 9.62,
+            "sensacionT": 8.33,
+            "humedad": 99
+        }
+    },
+    {
+        "__class__": "Provincias",
+        "__atributos__": {
+            "nombre": "Cordoba",
+            "capital": "Cordoba",
+            "cantHabitantes": 3066801,
+            "cantDep": 26,
+            "temp": 10.59,
+            "sensacionT": 9.17,
+            "humedad": 56
+        }
+    },
+    {
+        "__class__": "Provincias",
+        "__atributos__": {
+            "nombre": "Entre Rios",
+            "capital": "Parana",
+            "cantHabitantes": 1158147,
+            "cantDep": 17,
+            "temp": 24.45,
+            "sensacionT": 24.75,
+            "humedad": 69
+        }
+    }
+]
