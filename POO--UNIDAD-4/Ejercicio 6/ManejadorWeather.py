@@ -3,7 +3,7 @@ from ObjectEncoder import ObjectEncoder
 from VistaWeather import NewProvincia
 import requests
 
-API_KEY = "2a809ff8ece1b740feb183f0b44516fa"
+API_KEY = "your-token"
 
 
 class Manejador:
